@@ -4,7 +4,7 @@ Hi 👋 My name is Sabali
 I'm fullstack web developer
 ---------------------------
 
-I am a web developer with an amazing ability to develop web apps that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices. and I have a proven track record of delivering successful projects on time and within budget. I am a team player who is always willing to lend a helping hand, and I am confident in my ability to contribute to any project. I am looking for an opportunity to use my skills and experience to make a positive impact in web3
+I am a web developer with an amazing ability to develop web apps that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices. and I have a proven track record of delivering successful projects on time and within budget. I am a team player who is always willing to lend a helping hand, and I am confident in my ability to contribute to any project. I am looking for an opportunity to use my skills and experience to make a positive impact decentralized ecosystem including Bitcoin.
 
 * ✉️  You can contact me at [mthunzisabali@gmail.com](mailto:mthunzisabali@gmail.com)
 
